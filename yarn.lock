@@ -3998,7 +3998,7 @@
     "jscodeshift" "^0.11.0"
     "nullthrows" "^1.1.1"
 
-"react-native-windows@^0.64.1":
+"react-native-windows@>=0.63.3":
   "integrity" "sha512-xvu6vJ3JulHDofWCDKySXNYUJ6hLcrlODjZnvO3OHmcFMJnTdmu+6dCdhMaJJ7/OUA3DlzVaxgmz7n96wP89RQ=="
   "resolved" "https://registry.npmjs.org/react-native-windows/-/react-native-windows-0.64.7.tgz"
   "version" "0.64.7"
@@ -4038,7 +4038,7 @@
     "whatwg-fetch" "^3.0.0"
     "ws" "^6.1.4"
 
-"react-native@^0.64.0", "react-native@^0.64.1", "react-native@>=0.64.0-rc.0 || 0.0.0-*":
+"react-native@^0.64.0", "react-native@>=0.63.3", "react-native@>=0.64.0-rc.0 || 0.0.0-*":
   "integrity" "sha512-jvSj+hNAfwvhaSmxd5KHJ5HidtG0pDXzoH6DaqNpU74g3CmAiA8vuk58B5yx/DYuffGq6PeMniAcwuh3Xp4biQ=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.64.1.tgz"
   "version" "0.64.1"
